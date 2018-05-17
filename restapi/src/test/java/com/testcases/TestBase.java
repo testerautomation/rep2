@@ -24,6 +24,7 @@ public class TestBase {
 	// System.getProperty("user.dir")
 	// + "\\src\\test\\resources\\excel\\testdata.xlsx");
 	// public static Logger log = Logger.getLogger("devpinoyLogger");
+	//test
 
 	public static Properties Config = new Properties();
 	public static FileInputStream fis;
